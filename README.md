@@ -92,15 +92,18 @@ print (s.recv(1024).decode())
 # close the connection 
 s.close()
 ```
-```
-OUTPUT:
-
-<img width="1173" height="250" alt="image" src="https://github.com/user-attachments/assets/dbb93f1d-0322-461e-9aa5-81dd554c4573" />
-
 
 OUTPUT:
 
-<img width="1045" height="238" alt="image" src="https://github.com/user-attachments/assets/24331324-10b5-4c6d-a742-14a7dd9b92cf" />
+<img width="1168" height="267" alt="image" src="https://github.com/user-attachments/assets/35b3ce08-8ef9-4713-9f4f-5ab91471d715" />
+
+
+
+
+OUTPUT:
+
+<img width="1179" height="250" alt="image" src="https://github.com/user-attachments/assets/90423043-f51a-407e-a683-bed07986981a" />
+
 
 
 ## Result:
